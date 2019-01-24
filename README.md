@@ -1,3 +1,3 @@
 # gitbook-template
 
-说明详见 https://github.com/riskers/blog/issues/48
+说明详见 https://f497196689.github.io/gitbook-template/
